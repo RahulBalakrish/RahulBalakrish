@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hi](https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif)
+![Hi](https://res.cloudinary.com/dtnykietv/image/upload/v1712899330/pcoynksqsvemia32rca8.gif))
 
 
 # Rahul Balakrishna - Software Engineer
