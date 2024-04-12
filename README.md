@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hi](https://res.cloudinary.com/dtnykietv/image/upload/v1712899330/pcoynksqsvemia32rca8.gif)
-### 😄 Fun
-- Coding is fun! [Coding Baby GIF](https://tenor.com/en-IN/view/baby-koding-baby-baby-boy-code-coding-gif-24678193) to lighten your day!
+[![Programmer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+
 
 
 # Rahul Balakrishna - Software Engineer
