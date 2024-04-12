@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Hi](https://res.cloudinary.com/dtnykietv/image/upload/v1712899330/pcoynksqsvemia32rca8.gif)
+### 😄 Fun
+- Coding is fun! [Coding Baby GIF](https://tenor.com/en-IN/view/baby-koding-baby-baby-boy-code-coding-gif-24678193) to lighten your day!
 
 
 # Rahul Balakrishna - Software Engineer
